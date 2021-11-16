@@ -126,6 +126,8 @@ eventListeners=[
 ## Contribution
 Your contributions and suggestions are heartily welcome.
 
+## Regalfaith
+
 ## License
 MIT
 
